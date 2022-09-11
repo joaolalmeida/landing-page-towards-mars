@@ -1,5 +1,5 @@
 <h3 align="center">🔹Description🔹</h3>
- <p align="center">Landing page desenvolvido com HTML, CSS e JavaScript puro. Com o objetivo de praticar media queries, aplicação de diferentes temas, e design responsivo.</p>
+ <p align="center">Landing page created in the bootstrap module of the OneBitCode course, using media queries and responsive design.</p>
 
 <hr>
 <h3 align="center">🔹Technologies🔹</h3>
